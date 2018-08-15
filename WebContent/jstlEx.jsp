@@ -38,7 +38,7 @@ ${num1 }와 ${num2 }의 곱은 ${res }입니다.
 
 <br>
 <hr>
-<c:forEach var ="a" begin="0" end="10" step="1">
+<c:forEach var ="a" begin="0" end="10" step="1         ">
 	<font size=${a }>안녕</font><br>
 </c:forEach>
 <hr>
