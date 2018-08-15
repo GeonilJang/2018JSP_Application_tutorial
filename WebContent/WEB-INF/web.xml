@@ -17,23 +17,12 @@
     <error-code>500</error-code>
     <location>/500error.jsp</location>
   </error-page>
-  
   <context-param>
-  	<param-name>con1</param-name>
-  	<param-value>강호동</param-value>
+    <param-name>con1</param-name>
+    <param-value>강호동</param-value>
   </context-param>
   <context-param>
-  	<param-name>con2</param-name>
-  	<param-value>유재석</param-value>
+    <param-name>con2</param-name>
+    <param-value>유재석</param-value>
   </context-param>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 </web-app>
